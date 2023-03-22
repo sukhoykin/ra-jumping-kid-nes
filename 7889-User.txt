@@ -1,0 +1,11 @@
+1.1.0.0
+Jumpin' Kid - Jack to Mame no Ki Monogatari
+N0:0x00b8:"Sound"
+N0:0x0731:"shootIsPerformed"
+N0:0x0750:"damageGivenStun"
+N0:0x0751:"damageGivenStun"
+N0:0x0760:"damageGivenStun"
+N0:0x0761:"damageGivenStun"
+N0:0x07d0:"damageGivenStun"
+N0:0x07d6:"damageStunCountdown"
+N0:0x07e1:"damageStunCount"

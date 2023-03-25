@@ -1,6 +1,10 @@
 1.1.0.0
 Jumpin' Kid - Jack to Mame no Ki Monogatari
 N0:0x00b8:"Sound"
+N0:0x0680:"isBossBeatenMouser\r\n00: no\r\n01: yes"
+N0:0x0681:"isBossBeatenFroggy\r\n00: no\r\n01: yes"
+N0:0x0689:"isBossBeatenAngel\r\n00: no\r\n01: yes"
+N0:0x068a:"isBossBeatenGiant\r\n00: no\r\n01: yes"
 N0:0x0731:"shootIsPerformed"
 N0:0x0736:"bonusAngel\r\n00: no angel\r\n80: show angel"
 N0:0x0750:"damageGivenStun"
@@ -8,7 +12,13 @@ N0:0x0751:"damageGivenStun"
 N0:0x0760:"damageGivenStun"
 N0:0x0761:"damageGivenStun"
 N0:0x07d0:"damageGivenStun"
-N0:0x07d6:"damageStunCountdown"
+N0:0x07d6:"damageGivenBoss"
+N0:0x07d8:"damageGivenBoss"
+N0:0x07da:"damageGivenBoss"
+N0:0x07db:"damageGivenBoss"
+N0:0x07dc:"damageGivenBoss"
+N0:0x07dd:"damageGivenBoss"
+N0:0x07df:"damageGivenBoss"
 N0:0x07e1:"damageStunCount"
 111000008:"0xH031c=0_0xH0310=6.1._0xH0310=10_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=1_R:0xH0310=11_R:0xH0310=4":Jack's House:Collect 100% of items and complete the stage:::::3:::::00000
 111000009:"0xH031c=0_0xH0310=8.1._0xH0310=12_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843008_d0xX049c=16843009_R:0xH0310=13_R:0xH0310=4":Beanstalk Base:Collect 100% of items and complete the stage:::::3:::::00000
@@ -22,9 +32,22 @@ N0:0x07e1:"damageStunCount"
 111000018:"0xH031c=0_0xH0310=58.1._0xH0310=60_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=257_R:0xH0310=61_R:0xH0310=4":Grand Bamboo:Collect 100% of items and complete the stage:::::3:::::00000
 111000019:"0xH031c=0_0xH0310=61.1._0xH0310=70_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=16777217_d0xX04a0=16843008_d0xX04a4=16843009_d0xW04a8=65793_R:0xH0310=71_R:0xH0310=4":Fungus Heaven:Collect 100% of items and complete the stage:::::3:::::00000
 111000020:"0xH031c=0_0xH0310=76.1._0xH0310=78_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_R:0xH0310=79_R:0xH0310=4":Pirate Flying Ship:Collect 100% of items and complete the stage:::::3:::::00000
-111000021:"0xH031c=0_0xH0310=82.1._0xH0310=86_d0xW049d=986637_d0xX04a0=319951120_d0xX04a4=1447188_R:0xH0310=81_R:0xH0310=4":Castle Basement:Collect 100% of items and complete the stage:::::3:::::00000
-111000022:"0xH031c=0_0xH0310=86.1._0xH0310=84_d0xW0491=196608_d0xX0494=117835012_d0xX0498=185207048_d0xH049c=12_R:0xH0310=85_R:0xH0310=4":Castle 1st Hall:Collect 100% of items and complete the stage:::::3:::::00000
-111000023:"0xH031c=0_0xH0310=80.1._0xH0310=82_d0x 0491=513_R:0xH0310=83_R:0xH0310=4":Castle Entrance:Collect 100% of items and enter Castle:::::1:::::00000
+111000021:"0xH031c=0_0xH0310=80.1._0xH0310=82_d0x 0491=513_R:0xH0310=83_R:0xH0310=4":Castle Entrance:Collect 100% of items and enter Castle:::::1:::::00000
+111000022:"0xH031c=0_0xH0310=82.1._0xH0310=86_d0xW049d=986637_d0xX04a0=319951120_d0xX04a4=1447188_R:0xH0310=81_R:0xH0310=4":Castle Basement:Collect 100% of items and complete the stage:::::3:::::00000
+111000023:"0xH031c=0_0xH0310=86.1._0xH0310=84_d0xW0491=196608_d0xX0494=117835012_d0xX0498=185207048_d0xH049c=12_R:0xH0310=85_R:0xH0310=4":Castle 1st Hall:Collect 100% of items and complete the stage:::::3:::::00000
 111000024:"0xH031c=0_0xH0310=84.1._0xH0310=100_d0xX04a0=319951120_d0xX04a4=387323156_R:0xH0310=101_R:0xH0310=4":Castle 2nd Hall:Collect 100% of items and complete the stage:::::3:::::00000
 111000025:"0xH031c=0_0xH0310=88.1._0xH0310=90_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=197121_d0xX0494=394500_R:0xH0310=91_R:0xH0310=4":Castle Prison:Collect 100% of items and complete the stage:::::3:::::00000
 111000026:"0xH031c=0_0xH0310=90.1._0xH0310=102_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=197121_d0xX0494=117835012_d0xX0498=657672_d0xH04a1=17_R:0xH0310=103_R:0xH0310=4":Castle Tower:Collect 100% of items and complete the stage:::::3:::::00000
+111000027:"0xH031c=0_0xH0310=10.1._0xH0310=11_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Mouse:Win Jack's House bonus stage and get angel heart::::peyote:1:::::00000
+111000028:"0xH031c=0_0xH0310=26.1._0xH0310=27_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Snail:Win Beanstalk Top bonus stage and get angel heart:::::1:::::00000
+111000029:"0xH031c=0_0xH0310=42.1._0xH0310=43_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Sky:Win Jumping Clouds bonus stage and get angel heart:::::1:::::00000
+111000030:"0xH031c=0_0xH0310=44.1._0xH0310=45_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Bean:Win Beanstalk Pods bonus stage and get angel heart:::::1:::::00000
+111000031:"0xH031c=0_0xH0310=50.1._0xH0310=51_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Rainbow:Win Rainbow Stars bonus stage and get angel heart:::::1:::::00000
+111000032:"0xH031c=0_0xH0310=60.1._0xH0310=61_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Bamboo:Win Grand Bamboo bonus stage and get angel heart:::::1:::::00000
+111000033:"0xH031c=0_0xH0310=70.1._0xH0310=71_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Gold:Win Fungus Heaven bonus stage and get angel heart:::::2:::::00000
+111000034:"0xH031c=0_0xH0310=78.1._0xH0310=79_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Moneybag:Win Pirate Ship bonus stage and get angel heart:::::3:::::00000
+111000035:"0xH031c=0_0xH0310=100.1._0xH0310=101_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Diamond:Win Castle 2nd Hall bonus stage and get angel heart:::::3:::::00000
+111000036:"0xH031c=0_0xH031a=6.1._0xH031a=48":Up the Beanstalk:Complete all stages in Beanstalk World:::::10:::::00000
+111000037:"0xH031c=0_0xH031a=48.1._0xH031a=54":Cloudy Beans:Complete all stages in Cloudy Beans World:::::10:::::00000
+111000038:"0xH031c=0_0xH031a=54.1._0xH031a=80":Bamboo Fungus:Complete all stages in Bamboo Fungus World:::::10:::::00000
+111000039:"0xH031c=0_0xH031a=80.1._0xH031a=92_0xH068a=0.1._0xH068a=1":Castle in the Sky:Complete all stages in Flying Castle and defeat the Giant:::::10:::::00000

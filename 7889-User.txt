@@ -2,6 +2,7 @@
 Jumpin' Kid - Jack to Mame no Ki Monogatari
 N0:0x00b8:"Sound"
 N0:0x0731:"shootIsPerformed"
+N0:0x0736:"bonusAngel\r\n00: no angel\r\n80: show angel"
 N0:0x0750:"damageGivenStun"
 N0:0x0751:"damageGivenStun"
 N0:0x0760:"damageGivenStun"

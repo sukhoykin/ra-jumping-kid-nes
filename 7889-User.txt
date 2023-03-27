@@ -17,37 +17,56 @@ N0:0x07db:"damageGivenBoss"
 N0:0x07dc:"damageGivenBoss"
 N0:0x07dd:"damageGivenBoss"
 N0:0x07df:"damageGivenBoss"
-111000008:"0xH031c=0_0xH0310=6.1._0xH0310=10_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=1_R:0xH0310=11_R:0xH0310=4":Jack's House:Collect 100% of items and complete the stage:::::3:::::00000
-111000009:"0xH031c=0_0xH0310=8.1._0xH0310=12_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843008_d0xX049c=16843009_R:0xH0310=13_R:0xH0310=4":Beanstalk Base:Collect 100% of items and complete the stage:::::3:::::00000
-111000010:"0xH031c=0_0xH0310=12.1._0xH0310=16_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65792_d0xX0494=16843009_d0xX049c=16777216_d0xX04a0=16843008_d0xX04a4=16843009_R:0xH0310=17_R:0xH0310=4":Middle of Beanstalk:Collect 100% of items and complete the stage:::::3:::::00000
-111000011:"0xH031c=0_0xH0310=16.1._0xH0310=26_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=257_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=65793_d0xX04a0=16843008_d0xX04a4=257_R:0xH0310=27_R:0xH0310=4":Beanstalk Top:Collect 100% of items and complete the stage:::::3:::::00000
-111000013:"0xH031c=0_0xH0310=48.1._0xH0310=42_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=1_R:0xH0310=43_R:0xH0310=4":Jumping Clouds:Collect 100% of items and complete the stage:::::3:::::00000
-111000014:"0xH031c=0_0xH0310=30.1._0xH0310=28_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=257_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=16843009_R:0xH0310=29_R:0xH0310=4":Hanging Pods:Collect 100% of items and complete the stage:::::3:::::00000
-111000015:"0xH031c=0_0xH0310=28.1._0xH0310=44_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=1_R:0xH0310=45_R:0xH0310=4":Beanstalk Pods:Collect 100% of items and complete the stage:::::3:::::00000
-111000016:"0xH031c=0_0xH0310=54.1._0xH0310=50_R:0xH0310=51_R:0xH0310=4Sd0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=16843009_d0xX04a0=16843008_d0xX04a4=65793S0xH05fb>=144_d0xW0491=65793_d0xW0495=65793_d0xX0498=16843009_d0xH049c=1_d0x 049e=257_d0xX04a0=16843008_d0x 04a4=257_A:d0xH04b7_A:d0xH04b8_A:d0xH04b9_A:d0xH04ba_A:d0xH04bb_A:d0xH04bc_A:d0xH04bd_A:d0xH04be_d0xH04bf<=4":Rainbow Stars:Collect 100% of items (hearts can be skipped on full HP) and complete the stage:::::3:::::00000
-111000017:"0xH031c=0_0xH0310=46.1._0xH0310=58_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=257_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=65793_R:0xH0310=59_R:0xH0310=4":Cloudy Bamboo:Collect 100% of items and complete the stage:::::3:::::00000
-111000018:"0xH031c=0_0xH0310=58.1._0xH0310=60_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=257_R:0xH0310=61_R:0xH0310=4":Grand Bamboo:Collect 100% of items and complete the stage:::::3:::::00000
-111000019:"0xH031c=0_0xH0310=61.1._0xH0310=70_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=16777217_d0xX04a0=16843008_d0xX04a4=16843009_d0xW04a8=65793_R:0xH0310=71_R:0xH0310=4":Fungus Heaven:Collect 100% of items and complete the stage:::::3:::::00000
-111000020:"0xH031c=0_0xH0310=76.1._0xH0310=78_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_R:0xH0310=79_R:0xH0310=4":Pirate Flying Ship:Collect 100% of items and complete the stage:::::3:::::00000
-111000021:"0xH031c=0_0xH0310=80.1._0xH0310=82_d0x 0491=513_R:0xH0310=83_R:0xH0310=4":Castle Entrance:Collect 100% of items and enter Castle:::::1:::::00000
-111000022:"0xH031c=0_0xH0310=82.1._0xH0310=86_d0xW049d=986637_d0xX04a0=319951120_d0xX04a4=1447188_R:0xH0310=81_R:0xH0310=4":Castle Basement:Collect 100% of items and complete the stage:::::3:::::00000
-111000023:"0xH031c=0_0xH0310=86.1._0xH0310=84_d0xW0491=196608_d0xX0494=117835012_d0xX0498=185207048_d0xH049c=12_R:0xH0310=85_R:0xH0310=4":Castle 1st Hall:Collect 100% of items and complete the stage:::::3:::::00000
-111000024:"0xH031c=0_0xH0310=84.1._0xH0310=100_d0xX04a0=319951120_d0xX04a4=387323156_R:0xH0310=101_R:0xH0310=4":Castle 2nd Hall:Collect 100% of items and complete the stage:::::3:::::00000
-111000025:"0xH031c=0_0xH0310=88.1._0xH0310=90_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=197121_d0xX0494=394500_R:0xH0310=91_R:0xH0310=4":Castle Prison:Collect 100% of items and complete the stage:::::3:::::00000
-111000026:"0xH031c=0_0xH0310=90.1._0xH0310=102_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=197121_d0xX0494=117835012_d0xX0498=657672_d0xH04a1=17_R:0xH0310=103_R:0xH0310=4":Castle Tower:Collect 100% of items and complete the stage:::::3:::::00000
-111000027:"0xH031c=0_0xH0310=10.1._0xH0310=11_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Mouse:Win Jack's House bonus stage and get angel heart::::peyote:1:::::00000
-111000028:"0xH031c=0_0xH0310=26.1._0xH0310=27_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Snail:Win Beanstalk Top bonus stage and get angel heart:::::1:::::00000
-111000029:"0xH031c=0_0xH0310=42.1._0xH0310=43_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Sky:Win Jumping Clouds bonus stage and get angel heart:::::1:::::00000
-111000030:"0xH031c=0_0xH0310=44.1._0xH0310=45_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Bean:Win Beanstalk Pods bonus stage and get angel heart:::::1:::::00000
-111000031:"0xH031c=0_0xH0310=50.1._0xH0310=51_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Rainbow:Win Rainbow Stars bonus stage and get angel heart:::::1:::::00000
-111000032:"0xH031c=0_0xH0310=60.1._0xH0310=61_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Bamboo:Win Grand Bamboo bonus stage and get angel heart:::::1:::::00000
-111000033:"0xH031c=0_0xH0310=70.1._0xH0310=71_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Gold:Win Fungus Heaven bonus stage and get angel heart:::::2:::::00000
-111000034:"0xH031c=0_0xH0310=78.1._0xH0310=79_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Moneybag:Win Pirate Ship bonus stage and get angel heart:::::3:::::00000
-111000035:"0xH031c=0_0xH0310=100.1._0xH0310=101_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Diamond:Win Castle 2nd Hall bonus stage and get angel heart:::::3:::::00000
-111000036:"N:0xH031c=0_0xH031a=6.1._0xH031a=48":Up the Beanstalk:Complete all stages in Beanstalk World:::::10:::::00000
-111000037:"N:0xH031c=0_0xH031a=48.1._0xH031a=54":Cloudy Beans:Complete all stages in Cloudy Beans World:::::10:::::00000
-111000038:"N:0xH031c=0_0xH031a=54.1._0xH031a=80":Bamboo Fungus:Complete all stages in Bamboo Fungus World:::::10:::::00000
-111000039:"N:0xH031c=0_0xH031a=80.1._0xH031a=92_0xH068a=0.1._0xH068a=1":Castle in the Sky:Complete all stages in Flying Castle and defeat the Giant:::::10:::::00000
-111000040:"N:0xH031c=0_0xH0310=103.1._0xH0310=98":Romeo and Juliet:Climb the Tower and save the Princess:::::10:::::00000
-111000041:"N:0xH031c=0_0xH0310=6.1._0xH031a=48_O:0xH0310=7_O:0xH0310=9_O:0xH0310=13_O:0xH0310=17_N:0xH0310=21_R:0xH07d0!=d0xH07d0":You're a good man, Jack I:Complete Beanstalk World without hurting any minion enemies:::::10:::::00000
-111000042:"N:0xH031c=0_0xH0310=48.1._0xH031a=54_N:0xH031c=0_R:0xH031a=6_O:0xH0310=49_O:0xH0310=31_N:0xH0310=29_R:0xH07d0!=d0xH07d0":You're a good man, Jack II:Complete Cloudy Beans World without hurting any minion enemies:::::10:::::00000
+111000008:"P:0xH031c=1_0xH0310=6.1._0xH0310=10_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=1_R:0xH0310=11_R:0xH0310=4":Jack's House:Collect 100% of items and complete the stage:::::3:::::00000
+111000009:"P:0xH031c=1_0xH0310=8.1._0xH0310=12_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843008_d0xX049c=16843009_R:0xH0310=13_R:0xH0310=4":Beanstalk Base:Collect 100% of items and complete the stage:::::3:::::00000
+111000010:"P:0xH031c=1_0xH0310=12.1._0xH0310=16_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65792_d0xX0494=16843009_d0xX049c=16777216_d0xX04a0=16843008_d0xX04a4=16843009_R:0xH0310=17_R:0xH0310=4":Middle of Beanstalk:Collect 100% of items and complete the stage:::::3:::::00000
+111000011:"P:0xH031c=1_0xH0310=16.1._0xH0310=26_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=257_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=65793_d0xX04a0=16843008_d0xX04a4=257_R:0xH0310=27_R:0xH0310=4":Beanstalk Top:Collect 100% of items and complete the stage:::::3:::::00000
+111000013:"P:0xH031c=1_0xH0310=48.1._0xH0310=42_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=1_R:0xH0310=43_R:0xH0310=4":Jumping Clouds:Collect 100% of items and complete the stage:::::3:::::00000
+111000014:"P:0xH031c=1_0xH0310=30.1._0xH0310=28_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=257_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=16843009_R:0xH0310=29_R:0xH0310=4":Hanging Pods:Collect 100% of items and complete the stage:::::3:::::00000
+111000015:"P:0xH031c=1_0xH0310=28.1._0xH0310=44_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=1_R:0xH0310=45_R:0xH0310=4":Beanstalk Pods:Collect 100% of items and complete the stage:::::3:::::00000
+111000016:"P:0xH031c=1_0xH0310=54.1._0xH0310=50_R:0xH0310=51_R:0xH0310=4Sd0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=16843009_d0xX04a0=16843008_d0xX04a4=65793S0xH05fb>=144_d0xW0491=65793_d0xW0495=65793_d0xX0498=16843009_d0xH049c=1_d0x 049e=257_d0xX04a0=16843008_d0x 04a4=257_A:d0xH04b7_A:d0xH04b8_A:d0xH04b9_A:d0xH04ba_A:d0xH04bb_A:d0xH04bc_A:d0xH04bd_A:d0xH04be_d0xH04bf<=4":Rainbow Stars:Collect 100% of items (hearts can be skipped on full HP) and complete the stage:::::3:::::00000
+111000017:"P:0xH031c=1_0xH0310=46.1._0xH0310=58_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=257_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=65793_R:0xH0310=59_R:0xH0310=4":Cloudy Bamboo:Collect 100% of items and complete the stage:::::3:::::00000
+111000018:"P:0xH031c=1_0xH0310=58.1._0xH0310=60_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=257_R:0xH0310=61_R:0xH0310=4":Grand Bamboo:Collect 100% of items and complete the stage:::::3:::::00000
+111000019:"P:0xH031c=1_0xH0310=61.1._0xH0310=70_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_d0xX049c=16777217_d0xX04a0=16843008_d0xX04a4=16843009_d0xW04a8=65793_R:0xH0310=71_R:0xH0310=4":Fungus Heaven:Collect 100% of items and complete the stage:::::3:::::00000
+111000020:"P:0xH031c=1_0xH0310=76.1._0xH0310=78_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=65793_d0xX0494=16843009_d0xX0498=16843009_R:0xH0310=79_R:0xH0310=4":Pirate Flying Ship:Collect 100% of items and complete the stage:::::3:::::00000
+111000021:"P:0xH031c=1_0xH0310=80.1._0xH0310=82_d0x 0491=513_R:0xH0310=83_R:0xH0310=4":Castle Entrance:Collect 100% of items and enter Castle:::::1:::::00000
+111000022:"P:0xH031c=1_0xH0310=82.1._0xH0310=86_d0xW049d=986637_d0xX04a0=319951120_d0xX04a4=1447188_R:0xH0310=81_R:0xH0310=4":Castle Basement:Collect 100% of items and complete the stage:::::3:::::00000
+111000023:"P:0xH031c=1_0xH0310=86.1._0xH0310=84_d0xW0491=196608_d0xX0494=117835012_d0xX0498=185207048_d0xH049c=12_R:0xH0310=85_R:0xH0310=4":Castle 1st Hall:Collect 100% of items and complete the stage:::::3:::::00000
+111000024:"P:0xH031c=1_0xH0310=84.1._0xH0310=100_d0xX04a0=319951120_d0xX04a4=387323156_R:0xH0310=101_R:0xH0310=4":Castle 2nd Hall:Collect 100% of items and complete the stage:::::3:::::00000
+111000025:"P:0xH031c=1_0xH0310=88.1._0xH0310=90_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=197121_d0xX0494=394500_R:0xH0310=91_R:0xH0310=4":Castle Prison:Collect 100% of items and complete the stage:::::3:::::00000
+111000026:"P:0xH031c=1_0xH0310=90.1._0xH0310=102_d0xX04b7=0_d0xX04bb=0_d0xH04bf=0_d0xW0491=197121_d0xX0494=117835012_d0xX0498=657672_d0xH04a1=17_R:0xH0310=103_R:0xH0310=4":Castle Tower:Collect 100% of items and complete the stage:::::3:::::00000
+111000027:"P:0xH031c=1_0xH0310=10.1._0xH0310=11_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Mouse:Win Jack's House bonus stage and get angel heart::::peyote:1:::::00000
+111000028:"P:0xH031c=1_0xH0310=26.1._0xH0310=27_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Snail:Win Beanstalk Top bonus stage and get angel heart:::::1:::::00000
+111000029:"P:0xH031c=1_0xH0310=42.1._0xH0310=43_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Sky:Win Jumping Clouds bonus stage and get angel heart:::::1:::::00000
+111000030:"P:0xH031c=1_0xH0310=44.1._0xH0310=45_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Hit the Bean:Win Beanstalk Pods bonus stage and get angel heart:::::1:::::00000
+111000031:"P:0xH031c=1_0xH0310=50.1._0xH0310=51_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Rainbow:Win Rainbow Stars bonus stage and get angel heart:::::1:::::00000
+111000032:"P:0xH031c=1_0xH0310=60.1._0xH0310=61_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Catch the Bamboo:Win Grand Bamboo bonus stage and get angel heart:::::1:::::00000
+111000033:"P:0xH031c=1_0xH0310=70.1._0xH0310=71_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Gold:Win Fungus Heaven bonus stage and get angel heart:::::2:::::00000
+111000034:"P:0xH031c=1_0xH0310=78.1._0xH0310=79_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Moneybag:Win Pirate Ship bonus stage and get angel heart:::::3:::::00000
+111000035:"P:0xH031c=1_0xH0310=100.1._0xH0310=101_0xH069a=1_R:0xH0310=1_R:0xH0310=4":Aim the Diamond:Win Castle 2nd Hall bonus stage and get angel heart:::::3:::::00000
+111000036:"P:0xH031c=1_0xH031a=6.1._0xH031a=48":Up the Beanstalk:Complete all stages in Beanstalk World:::::10:::::00000
+111000037:"P:0xH031c=1_0xH031a=48.1._0xH031a=54":Cloudy Beans:Complete all stages in Cloudy Beans World:::::10:::::00000
+111000038:"P:0xH031c=1_0xH031a=54.1._0xH031a=80":Bamboo Fungus:Complete all stages in Bamboo Fungus World:::::10:::::00000
+111000039:"P:0xH031c=1_0xH031a=80.1._0xH031a=92_0xH068a=0.1._0xH068a=1":Castle in the Sky:Complete all stages in Flying Castle and defeat the Giant:::::10:::::00000
+111000040:"P:0xH031c=1_0xH0310=103.1._0xH0310=98":Romeo and Juliet:Climb the Tower and save the Princess:::::10:::::00000
+111000041:"P:0xH031c=1_0xH0310=6.1._0xH031a=48_O:0xH0310=7_O:0xH0310=9_O:0xH0310=13_O:0xH0310=17_N:0xH0310=21_R:0xH07d0!=d0xH07d0":You're a good man, Jack I:Complete Beanstalk World without hurting any minion enemies:::::10:::::00000
+111000042:"P:0xH031c=1_0xH0310=48.1._0xH031a=54_R:0xH031a=6_O:0xH0310=49_O:0xH0310=31_N:0xH0310=29_R:0xH07d0!=d0xH07d0":You're a good man, Jack II:Complete Cloudy Beans World without hurting any minion enemies:::::10:::::00000
+111000043:"P:0xH031c=1_0xH0310=54.1._0xH031a=80_R:0xH031a=6_O:0xH0310=55_O:0xH0310=47_O:0xH0310=59_O:0xH0310=65_O:0xH0310=63_N:0xH0310=77_R:0xH07d0!=d0xH07d0":You're a good man, Jack III:Complete Bamboo Fungus World without hurting any minion enemies:::::10:::::00000
+111000044:"P:0xH031c=1_0xH0310=80.1._0xH0310=102_R:0xH031a=6_O:0xH0310=81_O:0xH0310=83_O:0xH0310=85_O:0xH0310=89_O:0xH0310=91_N:0xH0310=93_R:0xH07d0!=d0xH07d0":You're a good man, Jack IV:Complete Flying Castle World without hurting any minion enemies:::::10:::::00000
+111000045:"P:0xH031c=1_0xH05fd=2_0xH0680=0.1._0xH0680=1_R:0xH0310!=7":Mouser:Beat Mouse having max bean power:::::5:::::00000
+111000046:"P:0xH031c=1_0xH05fd=2_0xH0681=0.1._0xH0681=1_R:0xH0310!=9":Froggy:Beat Frog having max bean power:::::5:::::00000
+111000047:"P:0xH031c=1_0xH05fd=2_0xH0682=0.1._0xH0682=1_R:0xH0310!=17":Toady:Beat Toad having max bean power:::::5:::::00000
+111000048:"P:0xH031c=1_0xH05fd=2_0xH0683=0.1._0xH0683=1_R:0xH0310!=29":Nutz:Beat Peanut having max bean power:::::5:::::00000
+111000049:"P:0xH031c=1_0xH05fd=2_0xH0685=0.1._0xH0685=1_R:0xH0310!=59":Bambooka:Beat Bamboo having max bean power:::::5:::::00000
+111000050:"P:0xH031c=1_0xH05fd=2_0xH0684=0.1._0xH0684=1_R:0xH0310!=63":Shroom:Beat Fly Agaric having max bean power:::::5:::::00000
+111000051:"P:0xH031c=1_0xH05fd=2_0xH0689=0.1._0xH0689=1_R:0xH0310!=83":Fallen Beauty:Beat Beauty Angel having max bean power:::::5:::::00000
+111000052:"P:0xH031c=1_0xH05fd=2_0xH0689=0.1._0xH0689=1_R:0xH0310!=81":Fallen Spear:Beat Spear Angel having max bean power:::::5:::::00000
+111000053:"P:0xH031c=1_0xH05fd=2_0xH0689=0.1._0xH0689=1_R:0xH0310!=85":Fallen Trident:Beat Trident Angel having max bean power:::::5:::::00000
+111000054:"P:0xH031c=1_0xH05fd=2_0xH068a=0.1._0xH068a=1_R:0xH0310!=93":Fee-fi-fo-fum!:Beat Giant having max bean power:::::5:::::00000
+111000055:"P:0xH031c=1_0xH05fb=80.1._0xH05fb>=144":Brand New:Get maximum Health Points::::peyote:5:::::00000
+111000056:"P:0xH031c=1_0xH05fc=0.1._0xH05fc=2":Jacky O'Hare:Get maximum Spring Power:::::1:::::00000
+111000057:"P:0xH031c=1_0xH05fd=0.1._0xH05fd=2":Lock & Load:Get maximum Bean Power:::::3:::::00000
+111000058:"P:0xH031c=1_0xH0302=0.1._0xH0302=1":Star Chance:Turn Diamonds into Yellow Hearts:::::1:::::00000
+111000059:"P:0xH031c=1_0xH0302=0.1._0xH0302=1_0xH0303=0.1._0xH0303=5":Vaporizer:Upgrade Shooting to vaporize enemies:::::1:::::00000
+111000060:"P:0xH031c=1_0xH03e4=0.1._0xH03e3=0.1._0xH03e4>=80":Stratosphere:Beat high score (50,000):::::10:::::00000
+111000061:"0xH031c=0_0xH0310=6.1._0xH0310=98.1._R:0xH0309<d0xH0309":Lumberjack:Complete the game without using continues:::::25:::::00000

@@ -1,11 +1,7 @@
 1.1.0.0
 Jumpin' Kid - Jack to Mame no Ki Monogatari
 N0:0x00b8:"Sound"
-N0:0x0680:"isBossBeatenMouser\r\n00: no\r\n01: yes"
-N0:0x0681:"isBossBeatenFroggy\r\n00: no\r\n01: yes"
-N0:0x0689:"isBossBeatenAngel\r\n00: no\r\n01: yes"
 N0:0x0731:"shootIsPerformed"
-N0:0x0736:"bonusAngel\r\n00: no angel\r\n80: show angel"
 N0:0x0750:"damageGivenStun"
 N0:0x0751:"damageGivenStun"
 N0:0x0760:"damageGivenStun"
@@ -64,9 +60,12 @@ N0:0x07df:"damageGivenBoss"
 111000053:"P:0xH031c=1_0xH05fd=2_0xH0689=0.1._0xH0689=1_R:0xH0310!=85":Fallen Trident:Beat Trident Angel having max bean power:::::5:::::00000
 111000054:"P:0xH031c=1_0xH05fd=2_0xH068a=0.1._0xH068a=1_R:0xH0310!=93":Fee-fi-fo-fum!:Beat Giant having max bean power:::::5:::::00000
 111000055:"P:0xH031c=1_0xH05fb=80.1._0xH05fb>=144":Brand New:Get maximum Health Points::::peyote:5:::::00000
-111000056:"P:0xH031c=1_0xH05fc=0.1._0xH05fc=2":Jacky O'Hare:Get maximum Spring Power:::::1:::::00000
+111000056:"P:0xH031c=1_0xH05fc=0.1._0xH05fc=2":Jumping Kid:Get maximum Spring Power:::::1:::::00000
 111000057:"P:0xH031c=1_0xH05fd=0.1._0xH05fd=2":Lock & Load:Get maximum Bean Power:::::3:::::00000
 111000058:"P:0xH031c=1_0xH0302=0.1._0xH0302=1":Star Chance:Turn Diamonds into Yellow Hearts:::::1:::::00000
 111000059:"P:0xH031c=1_0xH0302=0.1._0xH0302=1_0xH0303=0.1._0xH0303=5":Vaporizer:Upgrade Shooting to vaporize enemies:::::1:::::00000
 111000060:"P:0xH031c=1_0xH03e4=0.1._0xH03e3=0.1._0xH03e4>=80":Stratosphere:Beat high score (50,000):::::10:::::00000
 111000061:"0xH031c=0_0xH0310=6.1._0xH0310=98.1._R:0xH0309<d0xH0309":Lumberjack:Complete the game without using continues:::::25:::::00000
+111000062:"P:0xH031c=1_0xH0310=8.1._0xH0310=9_0xH0405=6_R:0xH0594<d0xH0594.20._R:0xH0310=1_R:0xH0310=4":Jacky O'Hare I:Reach the top in 20 jumps or less in Beanstalk Base stage:::::5:::::00000
+111000063:"P:0xH031c=1_0xH0310=12.1._0xH0310=13_0xH0405=5_R:0xH0594<d0xH0594.16._R:0xH0310=1_R:0xH0310=4":Jacky O'Hare II:Reach the top in 16 jumps or less in Middle of Beanstalk stage:::::10:::::00000
+111000064:"P:0xH031c=1_0xH0310=16.1._0xH0310=17_0xH0405=7_R:0xH0594<d0xH0594.25._R:0xH0310=1_R:0xH0310=4":Jacky O'Hare III:Reach the top in 25 jumps or less in Beanstalk Top stage:::::10:::::00000

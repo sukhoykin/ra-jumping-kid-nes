@@ -1,0 +1,58 @@
+Lookup:Stage
+0x6=Jack's House
+0x8=Beanstalk Base
+0xc=Middle of Beanstalk
+0x10=Beanstalk Top
+0x14=Beanstalk Inside
+0x18=Beanstalk Top
+0x30=Jumping Clouds
+0x1e=Hanging Pods
+0x1c=Beanstalk Pods
+0x36=Rainbow Stars
+0x2e=Cloudy Bamboo
+0x3a=Grand Bamboo
+0x40=Fungus Inside
+0x3e=Fungus Heaven
+0x42=Fungus Heaven
+0x4c=Pirate Flying Ship
+0x50=Castle Entrance
+0x52=Castle Basement
+0x56=Castle 1st Hall
+0x54=Castle 2nd Hall
+0x58=Castle Prison
+0x5a=Castle Tower
+0x5c=Princess Tower
+
+Lookup:Health
+0x10-0x1f=[ ▌······· ]
+0x20-0x2f=[ ▌▌······ ]
+0x30-0x3f=[ ▌▌▌····· ]
+0x40-0x5f=[ ▌▌▌▌···· ]
+0x60-0x6f=[ ▌▌▌▌▌··· ]
+0x70-0x7f=[ ▌▌▌▌▌▌·· ]
+0x80-0x8f=[ ▌▌▌▌▌▌▌· ]
+0x90-0x9f=[ ▌▌▌▌▌▌▌▌ ]
+
+Lookup:Spring
+0x00=🐌
+0x01=🐇
+0x02=🦘
+
+Lookup:Bean
+0x00=🐈
+0x01=🐕
+0x02=🦍
+
+Lookup:Demo
+0=Jack
+1=[Demo]
+
+Format:Value
+FormatType=VALUE
+
+Display:
+?0xh310=2?📺 Title Screen 📺
+?0xh310=3?📺 Title Screen 📺
+?0xh310=4?📺 Title Screen 📺
+?0xh310=5?📺 Title Screen 📺
+@Demo(0xh31c) @Health(0xh5fb) 🚩 @Stage(0xh31a) [ @Spring(0xh5fc) @Bean(0xh5fd) ] 💯 @Value(b0xh3e4*1000_b0xh3e3*10) ☠️ @Value(0xh309*-1_9)

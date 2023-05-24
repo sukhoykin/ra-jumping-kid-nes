@@ -43,10 +43,6 @@ Lookup:Bean
 0x01=🐕
 0x02=🦍
 
-Lookup:Demo
-0=Jack
-1=[Demo]
-
 Format:Value
 FormatType=VALUE
 
@@ -55,4 +51,5 @@ Display:
 ?0xh310=3?📺 Title Screen 📺
 ?0xh310=4?📺 Title Screen 📺
 ?0xh310=5?📺 Title Screen 📺
-@Demo(0xh31c) @Health(0xh5fb) 🚩 @Stage(0xh31a) [ @Spring(0xh5fc) @Bean(0xh5fd) ] 💯 @Value(b0xh3e4*1000_b0xh3e3*10) ☠️ @Value(0xh309*-1_9)
+?0xh31c=1?📺 Demonstration 📺
+Jack @Health(0xh5fb) 🚩 @Stage(0xh31a) [ @Spring(0xh5fc) @Bean(0xh5fd) ] 💯 @Value(b0xh3e4*1000_b0xh3e3*10) ☠️ @Value(0xh309*-1_9)

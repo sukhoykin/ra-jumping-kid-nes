@@ -33,15 +33,10 @@ Lookup:Health
 0x80-0x8f=[ ▌▌▌▌▌▌▌· ]
 0x90-0x9f=[ ▌▌▌▌▌▌▌▌ ]
 
-Lookup:Spring
-0x00=🐌
-0x01=🐇
-0x02=🦘
-
-Lookup:Bean
-0x00=🐈
-0x01=🐕
-0x02=🦍
+Lookup:Powerup
+0x00=[ ·· ]
+0x01=[ ▌· ]
+0x02=[ ▌▌ ]
 
 Format:Value
 FormatType=VALUE
@@ -52,4 +47,4 @@ Display:
 ?0xh310=4?📺 Title Screen 📺
 ?0xh310=5?📺 Title Screen 📺
 ?0xh31c=1?📺 Demonstration 📺
-Jack @Health(0xh5fb) 🚩 @Stage(0xh31a) [ @Spring(0xh5fc) @Bean(0xh5fd) ] 💯 @Value(b0xh3e4*1000_b0xh3e3*10) ☠️ @Value(0xh309*-1_9)
+Jack @Health(0xh5fb) Spring @Powerup(0xh5fc) Bean @Powerup(0xh5fd) 🚩 @Stage(0xh31a) 💯 @Value(b0xh3e4*1000_b0xh3e3*10) ☠️ @Value(0xh309*-1_9)
